@@ -1,6 +1,6 @@
 # Multi Criteria Decision Making to Evaluate Campaign Performance
 
-This project can help you evaluate your Meta & Google Ads campaigns & help you decide how to allocate your budget. I've included the parameters below in this notebook. Step-by-step walkthrough can be found in [the Jupyter Notebook file.](mcdm.ipynb)
+This project can help you evaluate your Meta & Google Ads campaigns & help you decide how to allocate your budget. Step-by-step walkthrough can be found in [the Jupyter Notebook file.](mcdm.ipynb)
 
 ![Plot](plot.png)
 
